@@ -1,1 +1,1 @@
-# Term-2-Web
+A website written with HTML and CSS
